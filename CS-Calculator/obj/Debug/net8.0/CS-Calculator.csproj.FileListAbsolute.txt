@@ -1,0 +1,15 @@
+/workspaces/CSharp-Learning/CS-Calculator/bin/Debug/net8.0/CS-Calculator
+/workspaces/CSharp-Learning/CS-Calculator/bin/Debug/net8.0/CS-Calculator.deps.json
+/workspaces/CSharp-Learning/CS-Calculator/bin/Debug/net8.0/CS-Calculator.runtimeconfig.json
+/workspaces/CSharp-Learning/CS-Calculator/bin/Debug/net8.0/CS-Calculator.dll
+/workspaces/CSharp-Learning/CS-Calculator/bin/Debug/net8.0/CS-Calculator.pdb
+/workspaces/CSharp-Learning/CS-Calculator/obj/Debug/net8.0/CS-Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CSharp-Learning/CS-Calculator/obj/Debug/net8.0/CS-Calculator.AssemblyInfoInputs.cache
+/workspaces/CSharp-Learning/CS-Calculator/obj/Debug/net8.0/CS-Calculator.AssemblyInfo.cs
+/workspaces/CSharp-Learning/CS-Calculator/obj/Debug/net8.0/CS-Calculator.csproj.CoreCompileInputs.cache
+/workspaces/CSharp-Learning/CS-Calculator/obj/Debug/net8.0/CS-Calculator.sourcelink.json
+/workspaces/CSharp-Learning/CS-Calculator/obj/Debug/net8.0/CS-Calculator.dll
+/workspaces/CSharp-Learning/CS-Calculator/obj/Debug/net8.0/refint/CS-Calculator.dll
+/workspaces/CSharp-Learning/CS-Calculator/obj/Debug/net8.0/CS-Calculator.pdb
+/workspaces/CSharp-Learning/CS-Calculator/obj/Debug/net8.0/CS-Calculator.genruntimeconfig.cache
+/workspaces/CSharp-Learning/CS-Calculator/obj/Debug/net8.0/ref/CS-Calculator.dll

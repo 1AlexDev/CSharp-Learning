@@ -6,9 +6,9 @@ namespace MyFirstApp
     {
         static void Main(string[] args)
         {
-
+            
             Console.WriteLine("What do you want to use? (*, +, -, /): ");
-            string operation = Console.ReadLine();
+            string operation = Console.ReadLine() ?? "*";
 
             Console.WriteLine("Enter the first number: ");
             double num1 = Convert.ToDouble(Console.ReadLine());

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/CSharp-Learning/MyFirstApp/MyFirstApp.csproj": {}
+    "/workspaces/CSharp-Learning/CS-Calculator/CS-Calculator.csproj": {}
   },
   "projects": {
-    "/workspaces/CSharp-Learning/MyFirstApp/MyFirstApp.csproj": {
+    "/workspaces/CSharp-Learning/CS-Calculator/CS-Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/CSharp-Learning/MyFirstApp/MyFirstApp.csproj",
-        "projectName": "MyFirstApp",
-        "projectPath": "/workspaces/CSharp-Learning/MyFirstApp/MyFirstApp.csproj",
+        "projectUniqueName": "/workspaces/CSharp-Learning/CS-Calculator/CS-Calculator.csproj",
+        "projectName": "CS-Calculator",
+        "projectPath": "/workspaces/CSharp-Learning/CS-Calculator/CS-Calculator.csproj",
         "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/CSharp-Learning/MyFirstApp/obj/",
+        "outputPath": "/workspaces/CSharp-Learning/CS-Calculator/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/codespace/.nuget/NuGet/NuGet.Config"

@@ -6,7 +6,6 @@ namespace MyFirstApp
     {
         static void Main(string[] args)
         {
-            
             Console.WriteLine("What do you want to use? (*, +, -, /): ");
             string operation = Console.ReadLine() ?? "*";
 
